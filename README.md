@@ -10,11 +10,9 @@
 
 ## Description
 
-This project provides two complementary developer tools to enhance productivity:
+Easily insert `console.log` or equivalent print statements into your code across multiple programming languages
 
-**Chrome Extension:** view `console.log` outputs directly in your browser without needing to open the Developer Tools
-
-**VSCode Extension:** easily insert `console.log` (or equivalent print statements) into your code across multiple programming languages 
+A [Chrome](https://github.com/MateusPitura/extension-chrome-console) extension is available for optional use to enhance productivity
 
 - [Features](#features)
 - [How to Run](#how-to-run)
@@ -23,43 +21,29 @@ This project provides two complementary developer tools to enhance productivity:
 
 ## Features 
 
-🔔 **Snackbars:** displays `console.log` messages as snackbars on the web page
+🖨️ **Easy Print:** quickly insert print statements anywhere in your code using simple keyboard shortcuts
 
-🖨️ **Easy Print:** supports multiple programming languages (e.g., JavaScript, Python, Java, C, etc.)
-
-🔗 **Integration:** install both to enjoy the full experience and a seamless workflow
+🌍 **Multi-Language Support:** automatically inserts the correct print statement syntax for multiple languages (C, C++, Go, Java, JavaScript, TypeScript, React, PHP, Ruby, Python, Shell Script)
 
 <p align="center"> 
   <video src="https://github.com/user-attachments/assets/de2b3b9e-9413-4923-8373-d5b9e754eda2"/> 
-</p> 
+</p>
 
 ## How to Run
-
-**Chrome:**
-
-1. On [GitHub](https://github.com/MateusPitura/extension-typescript-console/), navigate to the Releases tab, download the `.zip` file, and unpack it
-
-2. Open the Extensions tab in Chrome, enable `Developer mode` > `Load unpacked`
-
-3. On `localhost`, you will see a button to hide and another to clear
-
-4. When you print something using the emoji 🌠, it will appear as a snackbar
-
-**VSCode:**
 
 1. In VSCode search for `Star Console` in extensions tab
 
 2. Select some code and press `Shift` + `Alt` + `L`. This will insert a print statement in the file's programming language, beginning with the emoji 🌠. It also supports empty selections
 
-**VSCode | For devs:**
+**For devs:**
 
-1. Open a VSCode Window in `vscode/` folder. Install packages with `npm i`
+1. Install packages with `npm i`
 
 2. To test, press `F5`
 
 3. Update the CHANGELOG
 
-4. Update `version` references and run `npm i` in `vscode/`
+4. Update `version` references and run `npm i`
 
 5. Inside `vscode/`, compile with `vsce package`
 
