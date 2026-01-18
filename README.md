@@ -26,7 +26,7 @@ A [Chrome](https://github.com/MateusPitura/extension-chrome-console) extension i
 🌍 **Multi-Language Support:** automatically inserts the correct print statement syntax for multiple languages (C, C++, Go, Java, JavaScript, TypeScript, React, PHP, Ruby, Python, Shell Script)
 
 <p align="center"> 
-  <video src="https://github.com/user-attachments/assets/de2b3b9e-9413-4923-8373-d5b9e754eda2"/> 
+  <video src="https://github.com/user-attachments/assets/afc6fc78-cf9c-4215-85bc-553cb15694cc"/> 
 </p>
 
 ## How to Run
