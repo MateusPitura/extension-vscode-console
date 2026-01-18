@@ -45,7 +45,7 @@ A [Chrome](https://github.com/MateusPitura/extension-chrome-console) extension i
 
 4. Update `version` references and run `npm i`
 
-5. Inside `vscode/`, compile with `vsce package`
+5. Compile with `npx vsce package`
 
 6. Upload the `.vsix` to Visual Studio Marketplace
 

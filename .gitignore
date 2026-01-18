@@ -1,37 +1,3 @@
-# Node modules
 node_modules/
-
-# Build output
-dist/
-public/contentStyle.module.css
-public/manifest.json
-
-# Logs
-logs/
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Dependency directories
-jspm_packages/
-
-# TypeScript cache
-*.tsbuildinfo
-
-# Vite cache
-.vite/
-
-# IDE specific files
-.idea/
-
-# Miscellaneous
-.DS_Store
-Thumbs.db
-
-# Extension
-.vscode-test/
 *.vsix
 out/
-dist.pem
-dist.crx
