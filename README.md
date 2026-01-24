@@ -5,7 +5,7 @@
 <p> 
   <img src="https://img.shields.io/badge/Release-Dec%202024-green">  
   <img src="https://img.shields.io/badge/Version-0.1.7-blue">  
-  <img src="https://img.shields.io/github/stars/MateusPitura/extension-typescript-console?style=social"> 
+  <img src="https://img.shields.io/github/stars/MateusPitura/extension-vscode-console?style=social"> 
 </p> 
 
 ## Description
