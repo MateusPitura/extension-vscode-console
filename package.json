@@ -4,7 +4,7 @@
   "publisher": "MateusPitura",
   "description": "This extension is built to ease inserting log statements integrated with Chrome extension",
   "repository": "https://github.com/MateusPitura/extension-typescript-console",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"

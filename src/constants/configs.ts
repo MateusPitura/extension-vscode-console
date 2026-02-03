@@ -17,7 +17,7 @@ export const languageMappingsWithText: {[key: string]: string} = {
 export const languageMappingsWithoutText: {[key: string]: string} = {
     c: "printf(\"🌠 \\n\");",
     cpp: "cout << \"🌠 \";",
-    go: "fmt.Println(\"🌠\")",
+    go: "fmt.Println(\"🌠 \")",
     java: "System.out.println(\"🌠 \");",
     javascript: "console.log('🌠 ');",
     javascriptreact: "console.log('🌠 ');",

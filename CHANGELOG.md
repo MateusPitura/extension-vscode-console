@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.8] - 2026-02-02
+
+- Fix: white space for Go
+
 ## [0.1.7] - 2025-12-25
 
 - Fix: escape line break for C
