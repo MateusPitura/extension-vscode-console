@@ -12,7 +12,7 @@
 
 Easily insert `console.log` or equivalent print statements into your code across multiple programming languages
 
-A [Chrome](https://github.com/MateusPitura/extension-chrome-console) extension is available for optional use to enhance productivity
+A [Chrome](https://url.mateuspitura.com?q=github.com/MateusPitura/extension-chrome-console) extension is available for optional use to enhance productivity
 
 - [Features](#features)
 - [How to Run](#how-to-run)
