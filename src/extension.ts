@@ -103,7 +103,7 @@ function getLogStatementWithoutText(languageId: string): string {
   const templateText = languageMappingsWithoutText[languageId];
   if (!templateText) {
     vscode.window.showErrorMessage(
-      `The language used in this file is not supported.`
+      `The language ${languageId} used in this file is not supported.`
     );
     return "";
   }

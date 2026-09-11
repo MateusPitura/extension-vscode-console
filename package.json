@@ -4,7 +4,7 @@
   "publisher": "MateusPitura",
   "description": "This extension is built to ease inserting log statements integrated with Chrome extension",
   "repository": "https://github.com/MateusPitura/extension-typescript-console",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
@@ -32,12 +32,10 @@
     ]
   },
   "scripts": {
-    "vscode:prepublish": "npm run compile",
+    "package": "npm run lint && npm run compile && vsce package",
     "compile": "tsc -p ./",
     "lint": "eslint src --ext ts",
-    "watch": "tsc -watch -p ./",
-    "pretest": "npm run compile && npm run lint",
-    "test": "node ./out/test/runTest.js"
+    "watch": "tsc -watch -p ./"
   },
   "devDependencies": {
     "@types/glob": "^7.1.1",
@@ -49,7 +47,6 @@
     "eslint": "^6.8.0",
     "glob": "^7.1.6",
     "mocha": "^10.7.3",
-    "typescript": "^5.5.4",
-    "vscode-test": "^1.6.1"
+    "typescript": "^5.5.4"
   }
 }

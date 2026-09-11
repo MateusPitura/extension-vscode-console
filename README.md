@@ -45,7 +45,7 @@ A [Chrome](https://url.mateuspitura.com?q=github.com/MateusPitura/extension-chro
 
 4. Update `version` references and run `npm i`
 
-5. Compile with `npx vsce package`
+5. Compile with `npm run package`
 
 6. Upload the `.vsix` to Visual Studio Marketplace
 
@@ -55,7 +55,12 @@ A [Chrome](https://url.mateuspitura.com?q=github.com/MateusPitura/extension-chro
 
 ## Technologies Used
 
-✔️ Typescript
+<!--Link for badges: https://github.com/Ileriayo/markdown-badges -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p> 
+
 
 ## Authors 
 

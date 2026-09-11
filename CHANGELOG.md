@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.9] - 2026-09-10
+
+- Added support for Rust programming language
+
 ## [0.1.8] - 2026-02-02
 
 - Fix: white space for Go
