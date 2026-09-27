@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.1.10] - 2026-09-26
+- Added counter for print statements
+
 ## [0.1.9] - 2026-09-10
 
 - Added support for Rust programming language

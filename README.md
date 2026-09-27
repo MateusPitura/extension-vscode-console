@@ -25,6 +25,8 @@ A [Chrome](https://url.mateuspitura.com?q=github.com/MateusPitura/extension-chro
 
 🌍 **Multi-Language Support:** automatically inserts the correct print statement syntax for multiple languages (C, C++, Go, Java, JavaScript, TypeScript, React, PHP, Ruby, Python, Shell Script)
 
+🔢 **Counter:** automatically increments a counter for each print statement inserted, which can be reset with a command
+
 <p align="center"> 
   <video src="https://github.com/user-attachments/assets/afc6fc78-cf9c-4215-85bc-553cb15694cc"/> 
 </p>
@@ -39,7 +41,7 @@ A [Chrome](https://url.mateuspitura.com?q=github.com/MateusPitura/extension-chro
 
 1. Install packages with `npm i`
 
-2. To test, press `F5`
+2. To test, compile with `npm run compile` then press `F5`
 
 3. Update the CHANGELOG
 

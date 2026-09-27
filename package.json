@@ -4,7 +4,7 @@
   "publisher": "MateusPitura",
   "description": "This extension is built to ease inserting log statements integrated with Chrome extension",
   "repository": "https://github.com/MateusPitura/extension-typescript-console",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
@@ -21,6 +21,10 @@
       {
         "command": "star-console.insertLogStatement",
         "title": "Add log statement"
+      },
+      {
+        "command": "star-console.resetCounter",
+        "title": "Reset log statement counter"
       }
     ],
     "keybindings": [
